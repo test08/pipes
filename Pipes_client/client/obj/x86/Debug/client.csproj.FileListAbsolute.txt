@@ -1,0 +1,14 @@
+C:\Users\ri\AppData\Local\Temporary Projects\client\bin\Debug\client.exe
+C:\Users\ri\AppData\Local\Temporary Projects\client\bin\Debug\client.pdb
+C:\Users\ri\AppData\Local\Temporary Projects\client\obj\x86\Debug\client.exe
+C:\Users\ri\AppData\Local\Temporary Projects\client\obj\x86\Debug\client.pdb
+C:\Users\ri\documents\visual studio 2010\Projects\client\client\obj\x86\Debug\client.exe
+C:\Users\ri\documents\visual studio 2010\Projects\client\client\obj\x86\Debug\client.pdb
+C:\Users\ri\documents\visual studio 2010\Projects\client\client\bin\Debug\client.exe
+C:\Users\ri\documents\visual studio 2010\Projects\client\client\bin\Debug\client.pdb
+C:\Users\ri\documents\visual studio 2010\Projects\client\client\obj\x86\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\ri\Desktop\Pipes_client\client\obj\x86\Debug\client.exe
+C:\Users\ri\Desktop\Pipes_client\client\obj\x86\Debug\client.pdb
+C:\Users\ri\Desktop\Pipes_client\client\bin\Debug\client.exe
+C:\Users\ri\Desktop\Pipes_client\client\bin\Debug\client.pdb
+C:\Users\ri\Desktop\Pipes_client\client\obj\x86\Debug\client.csprojResolveAssemblyReference.cache
